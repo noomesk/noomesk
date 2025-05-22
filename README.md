@@ -1,24 +1,41 @@
 ```
+┌─[noomesk@fsociety]─[~]
+└──╼ $ cat about_me.txt
+
+
+███╗   ██╗ ██████╗  ██████╗ ███╗   ███╗███████╗███████╗██╗  ██╗
+████╗  ██║██╔═══██╗██╔═══██╗████╗ ████║██╔════╝██╔════╝╚██╗██╔╝
+██╔██╗ ██║██║   ██║██║   ██║██╔████╔██║█████╗  ███████╗ ╚███╔╝ 
+██║╚██╗██║██║   ██║██║   ██║██║╚██╔╝██║██╔══╝  ╚════██║ ██╔██╗ 
+██║ ╚████║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║███████╗███████║██╔╝ ██╗
+╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+
+# Exploitando la intersección entre ciencia, datos y seguridad... ¿Por qué no?
+
+```
 > whoami
-noomesk | Tech explorer | Data & Security Enthusiast
+Usuario: noomesk
+Sistema: Linux
+Rol: Exploradora de ciberseguridad y datos
 ```
 
 ```python
-# Intereses = ["Bioinformática", "Ciencia de Datos", "Modelado de Datos", "Automatización"]
-# Skills = ["Frontend", "Redes", "Ciberseguridad"]
+# Intereses = ["Bioinformática", "Desarrollo de Software", "Ciencia de Datos", "Modelado de Datos", "Automatización", "Linux", "Ciberseguridad"]
+# Skills = ["Linux", "Ciberseguridad (redes)", "Frontend", "Data wrangling", "Visualización de datos"]
 ```
 
-- 🛠️  Stack: Python (perfeccionando), C++, JavaScript, React, HTML, CSS
-- 🔒  Ciberseguridad de redes, ethical hacking básico
-- 📊  Data wrangling, visualización y análisis de datos
-- ⚡  Automatización de tareas y procesos
+- 🐧 Experiencia en entornos Linux
+- 🔒 Ciberseguridad y redes 
+- 🛠️ Automatización de tareas, ciencia y análisis de datos
+- 👩‍💻 Frontend: Python, JavaScript, React, HTML, CSS
+- 📊 Data wrangling y visualización
 
 ```text
-# exploring the intersection of code, science & security, why not?...
+# Hack the world, ethically
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Angie%20Paola%20Plazas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angie-paola-plazas-a008202a0/)
 
 ---
 
-> “Never stop learning. Hack the world, ethically.”
+> “Society has rules, but the terminal is yours. Never stop learning.”
