@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Holaaa! 👋
 
-<!--
-**noomesk/noomesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tengo interés en la **bioinformática**, la **ciencia de datos**, el **modelamiento de datos** y la **automatización**.  
+Me gusta explorar nuevas tecnologías y aprender cada día un poco más.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Experiencia en desarrollo frontend y redes/ciberseguridad.
+- 🧬 Apasionada por la intersección entre tecnología y ciencia.
+- ✨ Buscando siempre crecer y aportar valor en cada proyecto.
+
+## Habilidades
+
+- **Lenguajes:** Python, JavaScript, HTML, CSS
+- **Frameworks:** React
+- **Áreas:** Automatización, análisis y visualización de datos, seguridad informática
+
+## Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angie%20Paola%20Plazas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angie-paola-plazas-a008202a0/)
+
+---
+
+> “Nunca dejo de aprender, siempre hay algo nuevo por descubrir.”
+
+¡Gracias por visitar mi perfil!
