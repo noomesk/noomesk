@@ -28,9 +28,9 @@ Rol: Exploradora de ciberseguridad y datos
 -  Ciberseguridad 
 -  Data wrangling y visualización.
 -  Automatización e implementación de IA y APIs.
--  Frontend: Python, JavaScript, React, HTML, CSS, Next.js. 
+-  Frontend: HTML, CSS, JS, React, Next.js. UI/UX: Figma, Adobe XD
 -  Bioinformática
--  Data Science machine learning (in progress..) 
+-  Python, Data Science, Machine Learning (in progress..) 
 
 ```text
 # Hack the world, ethically
