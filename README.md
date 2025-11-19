@@ -21,14 +21,16 @@ Rol: Exploradora de ciberseguridad y datos
 
 ```python
 # Intereses = ["Bioinformática", "Desarrollo de Software", "Ciencia de Datos", "Modelado de Datos", "Automatización", "Linux", "Ciberseguridad"]
-# Skills = ["Linux", "Ciberseguridad (redes)", "Frontend", "Data wrangling", "Visualización de datos"]
+# Skills = ["Linux", "Ciberseguridad (Hacking ético - RED_TEAM - Networking)", "Frontend", "Data wrangling", "Visualización de datos"]
 ```
 
-- 🐧 Experiencia en entornos Linux
-- 🔒 Ciberseguridad y redes 
-- 🛠️ Automatización de tareas, ciencia y análisis de datos
-- 👩‍💻 Frontend: Python, JavaScript, React, HTML, CSS
-- 📊 Data wrangling y visualización
+- 🐧Experiencia en entornos Linux
+-  Ciberseguridad 
+-  Data wrangling y visualización.
+-  Automatización e implementación de IA y APIs.
+-  Frontend: Python, JavaScript, React, HTML, CSS, Next.js. 
+-  Bioinformática
+-  Data Science machine learning (in progress..) 
 
 ```text
 # Hack the world, ethically
