@@ -10,7 +10,7 @@
 ██║ ╚████║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║███████╗███████║██╔╝ ██╗
 ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
 
-# Exploitando la intersección entre Ciencia • Datos • Software • Seguridad
+# Exploitando la intersección entre Ciencia • Datos • Software • Seguridad  
 
 
              HELLO, FRIEND. WELCOME TO MY PORTFOLIO.
