@@ -19,12 +19,12 @@
 whoami
 > Usuario: noomesk
 > Sistema: Linux enjoyer
-> Rol: Desarrolladora junior | Ciberseguridad | Ciencia de Datos | Bioinformática
+> Rol: Creative dev | Ciberseguridad | Ciencia de Datos | Bioinformática | Arte generativo
 
 ```
 🐧 Sobre mí
 
-Soy una persona curiosa que vive entre ciencia, programación y ciberseguridad.
+Soy una persona curiosa que vive entre ciencia, programación y el arte en sus múltiples formas de expresión.
 Aprendo rápido, experimento, rompo cosas… y luego las arreglo mejor.
 
 Autodidacta | Trabajo con código claro y aprendo explorando, equivocándome y corrigiendo.
@@ -33,31 +33,57 @@ Me gusta jugar a automatizar todo lo automatizable.
 
 ```python
 Stack & Skills
-Lenguajes:
-- Python (Data Science, análisis, automatización)
-- JavaScript (React, Next.js)
-- HTML • CSS • UI/UX (Figma, Adobe XD)
 
-Ciberseguridad:
-- Linux Hardening
-- Ethical Hacking (Red Team)
-- Networking básico
-- OSINT
+Lenguajes & Frameworks
 
-Datos:
-- Data wrangling
-- Limpieza, visualización, EDA
-- Dashboards y análisis estadístico
+Python · JavaScript · TypeScript
+React · Next.js · HTML · CSS
+Tailwind CSS · Shadcn/UI · Framer Motion
 
-Software:
-- APIs
-- Automatización
-- Integración de IA
+IA & LLMs
+
+Integración con APIs de IA (Groq, Anthropic)
+Prompt engineering
+Flujos con Genkit
+LLMs en producción (Llama, Claude)
+
+Arte Generativo & Creative Coding
+
+TouchDesigner · Processing
+SVG generativo · Canvas API · WebGL
+Patrones paramétricos · Geometría procedural
+Three.js · Point clouds · Shaders
+Diseño algorítmico aplicado a UI
+
+UI/UX & Diseño
+
+Figma · Adobe XD
+Estética futurista / cyberpunk
+Interfaces vivas y reactivas
+
+Ciberseguridad
+
+Linux Hardening
+Ethical Hacking (Red Team)
+Networking · OSINT
+
+Datos
+
+Data wrangling · EDA · Visualización
+Dashboards · Análisis estadístico
+
+DevOps & Deployment
+
+Vercel · Git · GitHub
+Variables de entorno · APIs REST
+Arquitectura fullstack con Next.js (App Router)
+
 
 ```
 
 🐧🐧 Intereses
 -  Bioinformática
+-  Arte generativo & bioarte
 -  Desarrollo de Software
 -  Ciencia y modelado de datos
 -  Machine Learning (learning-in-progress)
