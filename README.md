@@ -103,7 +103,7 @@ Arquitectura fullstack con Next.js (App Router)
 
 > Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angie%20Paola%20Plazas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angie-paola-plazas-a008202a0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Angie%20Paola%20Plazas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/angie-plazas-a008202a0/)
 
 ---
 
