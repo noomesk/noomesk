@@ -42,7 +42,7 @@ Tailwind CSS · Shadcn/UI · Framer Motion
 
 IA & LLMs
 
-Integración con APIs de IA (Groq, Anthropic)
+Integración con APIs de IA (Groq, Anthropic, Gemini)
 Prompt engineering
 Flujos con Genkit
 LLMs en producción (Llama, Claude)
