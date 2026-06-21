@@ -13,7 +13,7 @@
 # Exploitando la intersección entre Ciencia • Bioarte & arte generativo • Software • Seguridad  
 
 
-             HELLO, FRIEND. WELCOME TO MY PORTFOLIO.
+             HELLO, FRIEND. WELCOME TO MY PORTFOLIO
 
 
 whoami
