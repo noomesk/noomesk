@@ -19,7 +19,7 @@
 whoami
 > Usuario: noomesk
 > Sistema: Linux enjoyer
-> Rol: Creative dev | Ciberseguridad | Ciencia de Datos | Bioinformática | Arte generativo
+> Rol: Creative dev | Ciencia de Datos | Bioinformática | Arte generativo
 
 ```
 🐧 Sobre mí
