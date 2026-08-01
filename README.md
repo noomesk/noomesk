@@ -27,8 +27,8 @@ whoami
 Soy una persona curiosa que vive entre ciencia, programación y el arte en sus múltiples formas de expresión.
 Aprendo rápido, experimento, rompo cosas… y luego las arreglo mejor.
 
-Autodidacta | Trabajo con código claro y aprendo explorando, equivocándome y corrigiendo.
-Defiendo los sistemas abiertos, el conocimiento libre & accesible para todos.
+Autodidacta | Trabajo con código claro y aprendo explorando, equivocándome y corrigiendo
+Defiendo los sistemas abiertos, el conocimiento libre & accesible para todos
 Me gusta jugar a automatizar todo lo automatizable.
 
 ```python
