@@ -24,12 +24,12 @@ whoami
 ```
 🐧 Sobre mí
 
-Soy una persona curiosa que vive entre ciencia, programación y el arte en sus múltiples formas de expresión.
-Aprendo rápido, experimento, rompo cosas… y luego las arreglo mejor.
-
-Autodidacta | Trabajo con código claro y aprendo explorando, equivocándome y corrigiendo
 Defiendo los sistemas abiertos, el conocimiento libre & accesible para todos
 Me gusta jugar a automatizar todo lo automatizable.
+Me interesa entender cómo funcionan las cosas, experimentar con ideas y convertir problemas en sistemas. Aprendo haciendo: exploro, rompo, pregunto, vuelvo a intentar y, con suerte, termino entendiendo algo que antes parecía muy raro. 
+
+Me gustan el software libre, el conocimiento abierto y las herramientas que hacen que crear sea más fácil para todxs. 
+También estoy interesada en las ciencias de la complejidad y el bioArte.
 
 ```python
 Stack & Skills
