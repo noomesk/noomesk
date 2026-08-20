@@ -24,7 +24,8 @@ whoami
 ```
 🐧 Sobre mí
 
-Defiendo los sistemas abiertos, el conocimiento libre & accesible para todos
+Defiendo los sistemas abiertos, el conocimiento libre & accesible para todos.
+
 Me gusta jugar a automatizar todo lo automatizable.
 Me interesa entender cómo funcionan las cosas, experimentar con ideas y convertir problemas en sistemas. Aprendo haciendo: exploro, rompo, pregunto, vuelvo a intentar y, con suerte, termino entendiendo algo que antes parecía muy raro. 
 
