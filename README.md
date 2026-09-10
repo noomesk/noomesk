@@ -31,7 +31,7 @@ Me interesa entender cómo funcionan las cosas, experimentar con ideas y convert
 
 Me gustan el software libre, el conocimiento abierto y las herramientas que hacen que crear sea más fácil para todxs. 
 
-También estoy interesada en las ciencias de la complejidad y el bioArte.
+También estoy interesada en las ciencias de la complejidad y el bioArte
 
 ```python
 Stack & Skills
