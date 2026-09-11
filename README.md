@@ -22,7 +22,7 @@ whoami
 > Rol: Creative dev | Ciencia de Datos | Bioinformática | Arte generativo
 
 ```
-🐧 Sobre mí
+🐧 Sobre mi:
 
 Defiendo los sistemas abiertos, el conocimiento libre & accesible para todos.
 
