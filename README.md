@@ -110,3 +110,5 @@ Arquitectura fullstack con Next.js (App Router)
 ---
 
 > “Society has rules, but the terminal is yours. Never stop learning.”
+>
+> bu
