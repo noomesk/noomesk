@@ -1,6 +1,6 @@
 ```
 ┌─[noomesk@fsociety]─[~]
-└──╼ $ cat about_me.txt z
+└──╼ $ cat about_me.txt
 
 
 ███╗   ██╗ ██████╗  ██████╗ ███╗   ███╗███████╗███████╗██╗  ██╗
