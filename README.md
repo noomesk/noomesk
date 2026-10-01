@@ -10,7 +10,7 @@
 ██║ ╚████║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║███████╗███████║██╔╝ ██╗
 ╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
 
-# Exploitando la intersección entre Ciencia • Bioarte & arte generativo • Software • Seguridad
+# Exploitando la intersección entre Ciencia • Bioarte & arte generativo • Software • Seguridad  -COMPLEXITY
 
 
              HELLO, FRIEND. WELCOME TO MY GITHUB!
