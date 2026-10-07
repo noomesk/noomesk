@@ -1,5 +1,5 @@
 ```
-┌─[noomesk@fsociety]─[~]
+┌─[noomesk@fsociety]─[~] N
 └──╼ $ cat about_me.txt
 
 
